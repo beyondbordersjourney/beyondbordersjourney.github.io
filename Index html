@@ -1,10 +1,64 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+  <title>My Korean Learning Journey</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #111;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      margin: 20px;
+      background: white;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #333;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #111;
+      color: white;
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello, I'm Abdulhakeem 👋</h1>
-  <p>Welcome to my first website!</p>
+
+<header>
+  <h1>Learning Korean From Nigeria 🇳🇬</h1>
+  <p>My Journey to Fluency & GKS Scholarship</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>Hello! I'm Abdulhakeem. I'm learning Korean from scratch without a tutor.
+     This website documents my weekly progress, free resources, and my journey toward GKS.</p>
+</section>
+
+<section>
+  <h2>Why I'm Learning Korean</h2>
+  <p>I want to study in South Korea through the GKS scholarship.
+     I believe consistency is more important than money.</p>
+</section>
+
+<section>
+  <h2>Weekly Updates</h2>
+  <p>Week 1: Learning Hangul and basic greetings.</p>
+</section>
+
+<footer>
+  <p>© 2026 My Korean Learning Journey</p>
+</footer>
+
 </body>
 </html>
